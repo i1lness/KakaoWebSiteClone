@@ -51,3 +51,14 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__subtitle-container {
+  display: flex;
+  align-items: center;
+}
+
+.user-component__subtitle-container i {
+  margin-left: 5px;
+  margin-top: 5px;
+  color: var(--default-gray);
+}
